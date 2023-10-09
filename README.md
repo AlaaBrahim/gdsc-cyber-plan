@@ -19,4 +19,5 @@
    3. Enumeration
    4. Exploitation
    5. Privilege Escalation
+   6. Wireless
 4. Final CTF
