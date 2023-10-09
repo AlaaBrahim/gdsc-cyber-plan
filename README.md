@@ -2,7 +2,7 @@
 
 1. Pre Security:
    1. Introduction to Cyber Security
-   2. Introduction to Linux
+   2. Introduction to Linux : https://overthewire.org/wargames/natas/natas0.html
    3. Introduction to Networking + How the web works
 2. Security:
    1. Web Security
