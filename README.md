@@ -3,20 +3,22 @@
 1. Pre Security:
    1. Introduction to Cyber Security
    2. Introduction to Linux
-   3. Introduction to Networking + How the web works
+   3. Introduction to Networking
 2. Security:
    1. Web Security
    2. Cryptography
-   3. Reverse Engineering
-   4. Binary Exploitation
-   5. Forensics
-   6. Cloud Security
-   7. OSINT
-   8. Steganography
+   3. Forensics
+   4. Steganography
+   5. Reverse Engineering
+   6. OSINT
+   7. Binary Exploitation (Maybe)
+   8. Cloud Security (Maybe)
 3. Offensive Pentesting
-   1. Understanding Vulnerabilities and CVEs
-   2. Reconnaissance
-   3. Enumeration
-   4. Exploitation
-   5. Privilege Escalation
+   1. Understanding Vulnerabilities and CVEs + Reconnaissance + Enumeration (NMAP)
+   4. Exploitation + Privilege Escalation
 4. Final CTF
+
+- Special Sessions:
+   1. Wireless
+   2. Making your own Tools: Attiny85, Raspberry... (Maybe)
+   3. Interesting Tools: Mitm(Ettercap), Social Engineering... (Maybe)
